@@ -1,0 +1,50 @@
+nav{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 15spx;}
+
+
+.card {  
+    width: 100%;
+    border: 1px solid #070707;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0.2);
+
+}
+
+.card img{
+    width: 70%;
+    height: 890opx;
+    object-fit: cover;
+
+}
+
+.card :hover {
+    
+}
+
+.card-container :hover{
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20x;
+    border-radius: 20px;
+    background-color: aqua;
+}
+
+
+
+
